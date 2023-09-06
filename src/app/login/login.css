@@ -1,0 +1,11 @@
+.login-nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+.login-nav li {
+    list-style-type: none;
+}
+.login-nav li a {
+    text-decoration: none;
+}
+
